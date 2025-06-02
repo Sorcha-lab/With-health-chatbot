@@ -1,4 +1,4 @@
-# 🤖 WithHealth(بالصحة)– Food ordering Chatbot
+# 🤖 With Health(بالصحة)– Food ordering Chatbot
 
 With Health (بالصحة) is a smart bilingual food ordering chatbot designed to handle basic meal ordering queries. Built on the Kore.ai platform, it simulates real food-ordering interactions and integrates with the Zoho Mail API to send order confirmation emails.
 
