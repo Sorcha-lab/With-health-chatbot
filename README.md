@@ -27,7 +27,7 @@ With Health (بالصحة) is a smart bilingual food ordering chatbot designed t
 
 ## 📺 Demo Video
 
-📹 [(https://youtu.be/OjM7I3-oRuo)](www.linkedin.com/in/safae-kharbouchi-b8505712a)  
+📺 [Watch the Demo on YouTube](https://youtu.be/OjM7I3-oRuo)
 
 
 ---
